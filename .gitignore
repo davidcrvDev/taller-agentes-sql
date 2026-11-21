@@ -1,0 +1,22 @@
+# Claves y secretos -- NUNCA deben subirse al repositorio
+.env
+
+# Resultados generados en tiempo de ejecucion
+salida/
+*_corregido.sql
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Empaquetado de la entrega
+*.zip
+
+# Sistema operativo / editores
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
